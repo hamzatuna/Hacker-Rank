@@ -1,4 +1,4 @@
-N,M = map(int, input().split())
+N, M = map(int, input().split())
 rows = [input() for _ in range(N)]
 K = int(input())
 
